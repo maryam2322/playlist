@@ -1,0 +1,22 @@
+.playlist{
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 450px;
+}
+caption{
+    text-align: left;
+    padding-bottom: 25px;
+}
+.playlist td{
+    font-size: 15px;
+}
+img{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+}
+p{
+    color: #a8a8a8;
+}
